@@ -1,0 +1,22 @@
+.log-in-wrapper {
+    margin-top: 0.7cm;
+    display: grid;
+    place-items: center;
+    width: 15.1cm;
+    height: 11cm;
+    background-color: rgb(162, 237, 172);
+    border-radius: 2cm;
+    border-color: aliceblue;
+    border: 4px solid white;
+    margin: 2cm;
+}
+
+.input-fields {
+    display: grid;
+    place-content: center;
+}
+
+input {
+    padding-bottom: 3px;
+    margin-bottom: 0.5cm;
+}

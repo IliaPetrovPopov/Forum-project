@@ -1,0 +1,11 @@
+.category-button {
+    color-scheme: 'white';
+}
+
+.categories-select{
+    display: block;
+    width: 100%;
+    height: 15vh;
+    max-width: 100vw; 
+    font-size: larger;
+  }

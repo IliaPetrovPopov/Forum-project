@@ -1,0 +1,9 @@
+.user-pic {
+    vertical-align: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: gray;
+    border-style: outset;
+}

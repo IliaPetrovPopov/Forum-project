@@ -1,0 +1,7 @@
+#info-wrapper {
+    border: 3px solid black;
+    display: flex;
+    width: 15cm;
+    justify-content: center;
+}
+

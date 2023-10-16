@@ -1,0 +1,36 @@
+.pagination {
+  display: flex;
+  align-items: center;
+
+  .prev,
+  .next {
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #cbd5e0;
+    }
+  }
+
+  .page {
+    background-color: #64c4d1;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    margin: 0 4px;
+
+    &:hover {
+      background-color: #cbd5e0cc;
+      color: #64c4d1;
+    }
+  }
+
+  .active {
+    color: #fff;
+  }
+}
